@@ -1,0 +1,5 @@
+{
+  "name": "Gardening Assistant",
+  "description": "An AI-powered app to identify plants from photos, get care instructions, and chat with a gardening expert.",
+  "requestFramePermissions": []
+}
